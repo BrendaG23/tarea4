@@ -1,0 +1,35 @@
+.posición-jugadora {
+    color: red;
+    font-weight: 900;
+}
+.nombre-jugadora {
+    color: blueviolet;
+    background-color:blanchedalmond;
+    font-style: oblique;
+}
+
+.cartita .título-cartita {
+    color: white;
+    background-color: black;
+    font-size: 25px;
+}
+
+.cartita .descr-cartita {
+  font-size: 15px;  
+}
+
+.cartita .link {
+text-decoration: none;
+font-size: 22px;
+}
+
+.day {
+    font-weight: 900;
+    color: brown;
+    font-size: 22px;
+}
+
+.hor {
+    font-style: oblique;
+    color: brown;
+}
